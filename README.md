@@ -31,7 +31,7 @@ one large file. The subject and activity columns were converted to factors and
 the activity labels were applied to the activity factor. The data columns were 
 named using the labels from features.txt.
 
-As we are only interested in data comumns with mean and std summaries, all other
+As we are only interested in data columns with mean and std summaries, all other
 columns were removed. Finally, the mean of each data column was computed for each 
 group of subject and activity. That summary was written as a comma separated text 
 file to dataSummary.txt.
